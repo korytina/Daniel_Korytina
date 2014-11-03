@@ -15,17 +15,19 @@ korytina@colorado.edu
 
 
 # Current Funding
-Yes. I am on the ARCS scholarship (2nd year now, $20,000 over 4 years (5k/yr)) and receive the CO graduate grant. I also have income and qualify for 20k/yr in loans. Although tuition is a non-issue, it might be interesting to apply for a Student RPP position in a research lab to get real-world use of my software.
+ARCS scholarship + Grant. 
+Also, just hired part-time at NCAR.
 
 # PhD Program
 
 ## Thesis Advisor
-None
+Roger King
 
 ## Committee
 
 
-* Previous committee members:    Lv
+* Previous committee members:    
+*  Lv
 *  Ellis
 *  Anderson
 
