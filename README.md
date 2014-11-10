@@ -25,11 +25,7 @@ Roger King
 
 ## Committee
 
-
-* Previous committee members:    
-*  Lv
-*  Ellis
-*  Anderson
+* Previous committee members: Lv, Ellis, Anderson
 
 
 ## Milestones
@@ -45,7 +41,7 @@ Roger King
 
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 5314 Algorithms: Molecularbio | Fall 2013 |  |  | |
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
 | {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
@@ -69,19 +65,17 @@ Roger King
 ## Awards
 
 
-* 1. ARCS scholarship (2nd year now, $20,000 over 4 years (5k/yr)).
+* 1. ARCS scholarship
 * 2. CO graduate grant
 
 
 # Teaching
 
-* {one sentence summary}
-* {one sentence summary}
-* {one sentence summary}
+* Helped teach 5th grade band for several weeks at Emerald Elementary while school looked for permanent instructor.
 
 # Service
 
-* {one sentence summary}
+* Learned LOGO to teach to kids
 * {one sentence summary}
 * {one sentence summary}
 
