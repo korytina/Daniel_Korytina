@@ -42,11 +42,7 @@ Roger King
 | Course           | Taken             | Planned            | Depth    | Breadth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
 | CSCI 5314 Algorithms: Molecularbio | Fall 2013 |  |  | |
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
-| {number} {title} | {semester} {year} | {semester} {year}  | {yes/no} | {yes/no}|
+| CSCI 5576 High-Performance Sci Comp 1 | Fall 2010 |  | | |
 
 # Research
 
@@ -57,10 +53,8 @@ Roger King
 
 
 ## Presentations
+* Expressing high-throughput data in a restructurable, integrated form for knowledge extraction, Las Vegas, World Comp '08 [pptx](https://docs.google.com/presentation/d/1uOKJZTmadLfrcKtshbfQqChaxiPKLFLuaLVYsyfpQMY/edit?usp=sharing)
 
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
-* {what,where,when} [pptx](files/presentation-file.pptx)
       
 ## Awards
 
@@ -76,8 +70,6 @@ Roger King
 # Service
 
 * Learned LOGO to teach to kids
-* {one sentence summary}
-* {one sentence summary}
 
 # Highlights
 
