@@ -43,6 +43,8 @@ Roger King
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
 | CSCI 5314 Algorithms: Molecularbio | Fall 2013 |  |  | |
 | CSCI 5576 High-Performance Sci Comp 1 | Fall 2010 |  | | |
+| ... | |  | | |
+
 
 # Research
 
@@ -58,7 +60,6 @@ Roger King
       
 ## Awards
 
-
 * 1. ARCS scholarship
 * 2. CO graduate grant
 
@@ -72,6 +73,13 @@ Roger King
 * Learned LOGO to teach to kids
 
 # Highlights
+* Hired for a payed internship at NCAR, starting date: Novemeber 10, 2014
+* Developed a tool at NREL to automatically generate a database from a folder hiercharchy - each folder becomes a table, files become records. Folder nesting is captured with foreign key links and there is a data merge feature.
+* Wirewrapped programmable HC11 computer with LCD screen from individual chips. Programmable via serial port and/or EPROM
+
+Some hobby/fun programming stuff:
+* Edited c source for INT BASIC programming language to compile and run on Matsucom wristwatch
+* Wrote checkers engine (recursive postion evaluation) in Saturn assembly for HP48G calculator (this was interesting due to the register limitation of the architecture)
 
 
 ## 
