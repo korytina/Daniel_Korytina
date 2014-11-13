@@ -32,17 +32,22 @@ Roger King
 
 | Milestone            | Completed         | Planned           |         
 | -------------------- | ----------------- | ----------------- |
-| Start                | {semester} {year} |                   |
-| Area Exam            | {semester} {year} | {semester} {year} |
-| Proposal Defense     | {semester} {year} | {semester} {year} |
-| Dissertation Defense | {semester} {year} | {semester} {year} |
+| Start                | 2009              | |
+| Area Exam            | Fall 2009         | |
+| Proposal Defense     |                   | Spring 2015 |
+| Dissertation Defense |                   | Fall 2016 |
 
 ## Courses
 
-| Course           | Taken             | Planned            | Depth    | Breadth | 
+| Course           | Taken             | Planned            | Breadth    | Depth | 
 | ---------------- | ----------------- | ------------------ | -------- | ------- |
-| CSCI 5314 Algorithms: Molecularbio | Fall 2013 |  |  | |
-| CSCI 5576 High-Performance Sci Comp 1 | Fall 2010 |  | | |
+| CSCI 5314 Algorithms: Molecularbio   | Fall 2013    |     | yes      | yes  |  
+| CSCI 5839 User Centered Design        | Fall 2010   |     | yes      | yes  | 
+| CSCI 5576 High-Performance Sci Comp 1 | Fall 2010   |     | yes      | yes | 
+| CSCI 5342 Groupware and Workflow      | Fall 2008   |     | yes      | yes | 
+| CSCI 5828 Foundations/Sftware Engr    | Spring 2007 |     | yes      | yes | 
+| CSCI 6448 Object-Oriented Anlysis & Dsgn | Spring 2007 |  | no      | yes  |
+| CSCI 5817 Database Systems            | Spring 2006 | yes | yes |
 | ... | |  | | |
 
 
@@ -66,7 +71,7 @@ Roger King
 
 # Teaching
 
-* Helped teach 5th grade band for several weeks at Emerald Elementary while school looked for permanent instructor.
+* Helped teach 5th grade band for several weeks at Emerald Elementary while the school looked for permanent instructor.
 
 # Service
 
@@ -77,9 +82,9 @@ Roger King
 * Developed a tool at NREL to automatically generate a database from a folder hiercharchy - each folder becomes a table, files become records. Folder nesting is captured with foreign key links and there is a data merge feature.
 * Wirewrapped programmable HC11 computer with LCD screen from individual chips. Programmable via serial port and/or EPROM
 
-Some hobby/fun programming stuff:
+Fun programming stuff:
 * Edited c source for INT BASIC programming language to compile and run on Matsucom wristwatch
-* Wrote checkers engine (recursive postion evaluation) in Saturn assembly for HP48G calculator (this was interesting due to the register limitation of the architecture)
+* Wrote checkers engine (recursive postion evaluation) in Saturn assembly for and on HP48G calculator (interesting due to the special-purpose working registers, scratch and stack limitations of the architecture)
 
 
 ## 
