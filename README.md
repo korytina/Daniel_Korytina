@@ -47,7 +47,7 @@ Roger King
 | CSCI 5342 Groupware and Workflow      | Fall 2008   |     | yes      | yes | 
 | CSCI 5828 Foundations/Sftware Engr    | Spring 2007 |     | yes      | yes | 
 | CSCI 6448 Object-Oriented Anlysis & Dsgn | Spring 2007 |  | no      | yes  |
-| CSCI 5817 Database Systems            | Spring 2006 | yes | yes |
+| CSCI 5817 Database Systems               | Spring 2006 |  | yes | yes |
 | ... | |  | | |
 
 
